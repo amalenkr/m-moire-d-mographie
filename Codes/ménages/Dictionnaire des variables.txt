@@ -1,0 +1,82 @@
+DICTIONNAIRE DES VARIABLES MENAGE
+
+HHID	Case identification 
+HV001	Numéro classe
+HV002	Numéro ménage
+H
+V004	Ultimate area unit
+HV005	Poids sur l'échantillon
+HV009	Nombre de membre dans le ménage
+HV014	Nombre d'enfants de 5 ans et moins
+HV022	Sample stratum number
+HV024	Region
+HV026	Lieu de résidence
+HV201	Source d'eau potable
+HV202	Source d'eau non potable
+HV204	Temps pour aller chercher de l'eau
+HV205	Type de toilettes
+HV206	A l'électricité
+HV207	A la radio
+HV208	A la télevision
+HV209	A un réfrigirateur
+HV210	A un vélo
+HV211	A une moto/scooter
+HV212	A une voiture/camionette
+HV213	Matériau principal au sol
+HV214	Matériau principal au mur
+HV215	Materiau principal au toit
+HV216	Pièces utilisées pour dormir 
+HV217	Struction du ménage
+HV219	Sexe du chef de ménage
+HV220	Age du chef de ménage
+HV221	A un telephone 
+HV226	Carburant utilise pour la cuisson des aliments
+HV227	Utilisation d'une moustiquaire
+HV228	Enfants de moins de 5 ans ayant dormi sous une moustiquaire la nuit précedente
+HV235	Localisation de la source d'eau
+HV236	Personne qui va chercher l'eau
+HV238	Nombre d'individus partageant les toilettes
+HV239	Cuisiner sur une cuisinière/dehors
+HV240	Cheminé, hotte, aucun des deux
+HV241	Nourriture cuisinée dans le ménage, dans un batiment séparé, dehors
+HV245	Hectares terrain agriculture
+HV246	Bétails, troupeaux ou animaux de la ferme
+HV247	A un compte en banque
+HV243A	A un télephone mobile
+HV243B	A une montre
+HV243C	A un chariot tiré par les animaux
+HV243D	A un bateau avec moteur
+HV246A	Bétail
+
+Création nouvelles variables :
+cHV106	Plus haut niveau d'éducation dans le ménage
+cHC61	Plus haut niveau d'éducation mères
+cHA68	Plus haut niveau d'éducation femmes
+cHB68	Plus haut niveau d'éducation hommes
+cHV109	Niveau d'éducation atteint
+chv229	Media
+chv230	Moyen de locomotion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
